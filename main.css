@@ -22,6 +22,10 @@ div {
   border-top-color: #FFFF00;
 }
 
+#green {
+  border-top-color: #008000;
+}
+
 #blue {
   border-top-color: #0000FF;
 }
